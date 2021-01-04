@@ -1,6 +1,6 @@
 # pyFerrovia
 
-This is an open source project with the goal to simulate a train using python and ode solvers. The ideia is to make the simulation output a variety of relevant data points to support safe decision making in the railway industry, aided by visual feedback of the results.
+This is an open source project with the goal to simulate a train using python and ode solvers. The ideia is to make the simulation output a variety of relevant data points to support safe decision making in the railway industry.
 
 ## Initial Scope
 
@@ -13,3 +13,4 @@ This is an open source project with the goal to simulate a train using python an
 
 - Work together instrumented real trains as a digital twin and continuously optimize the operation
 - Machine Learning optimized conduction based on input path and end goal
+
